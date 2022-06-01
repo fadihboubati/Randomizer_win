@@ -11,7 +11,7 @@ an application that helps the instructor who is working online during the lectur
 
 ## The Instructions
 
-1. [python programming language.](https://www.python.org/downloads/) is needed.
+1. [python programming language](https://www.python.org/downloads/) is needed.
       
 3. Clone the repo.
 
