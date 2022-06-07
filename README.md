@@ -17,7 +17,7 @@ an application that helps the instructor who is working online during the lectur
 
 3. Go to the dist folder, then open the randomizer file (it's an executable file)
 
-4. * Create a list of studentsm.
+4. * Create a list of students.
         there are two ways:
         + adding students one by one by the GUI.
     when you create a list using the GUI, a new txt file will be created named "students_list" that contains your data, and the app will read the data from this file(you can also from this file do any update or delete to the data)
